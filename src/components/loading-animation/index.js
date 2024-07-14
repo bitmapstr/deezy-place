@@ -4,7 +4,7 @@ import PropTypes from "prop-types";
 import { TailSpin } from "react-loading-icons";
 
 const LoadingAnimation = () => {
-  return <TailSpin stroke="#fec823" speed={0.75} />;
+  return <TailSpin stroke="#F7931A" speed={0.75} />;
   //   return (
   //     <Lottie
   //       animationData={checkAnimation}

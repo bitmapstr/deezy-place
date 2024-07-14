@@ -250,7 +250,7 @@ const BidModal = ({ show, handleModal, utxo, onBid, suggestedPrice }) => {
               className={isOnBid ? "btn-loading" : ""}
               onClick={submit}
             >
-              {isOnBid ? <TailSpin stroke="#fec823" speed={0.75} /> : "Bid"}
+              {isOnBid ? <TailSpin stroke="#F7931A" speed={0.75} /> : "Bid"}
             </Button>
           </div>
         </div>

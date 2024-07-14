@@ -277,7 +277,7 @@ const BuyModal = ({ show, handleModal, utxo, onSale, nostr: _nostr }) => {
               className={isOnBuy ? "btn-loading" : ""}
               onClick={submit}
             >
-              {isOnBuy ? <TailSpin stroke="#fec823" speed={0.75} /> : "Buy"}
+              {isOnBuy ? <TailSpin stroke="#F7931A" speed={0.75} /> : "Buy"}
             </Button>
           </div>
         </div>

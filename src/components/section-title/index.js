@@ -12,7 +12,7 @@ const SectionTitle = ({ title, className, disableAnimation, isLoading, ...restPr
             {...restProps}
             dangerouslySetInnerHTML={{ __html: title }}
         />
-        {isLoading && <TailSpin stroke="#fec823" speed={0.75} />}
+        {isLoading && <TailSpin stroke="#F7931A" speed={0.75} />}
     </div>
 );
 

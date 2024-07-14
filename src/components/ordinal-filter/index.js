@@ -127,7 +127,7 @@ const OrdinalFilter = ({
             id="hide-text-inscriptions"
             label="Hide .txt"
             onChange={onUtxosType}
-            checked={hideTxt}
+            checked={false}
           />
         </div>
       )}

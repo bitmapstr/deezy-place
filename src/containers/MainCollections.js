@@ -16,6 +16,7 @@ const mainCollections = [
   "astralchads",
   "bitcoin-frogs",
   "bitcoinpunks",
+  "bitmap",
 ];
 
 const MainCollections = ({ className, space }) => {

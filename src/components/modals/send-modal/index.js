@@ -295,7 +295,7 @@ const SendModal = ({
               className={isSending ? "btn-loading" : ""}
               onClick={submit}
             >
-              {isSending ? <TailSpin stroke="#fec823" speed={0.75} /> : "Send"}
+              {isSending ? <TailSpin stroke="#F7931A" speed={0.75} /> : "Send"}
             </Button>
           </div>
         </div>

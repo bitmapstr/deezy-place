@@ -6,6 +6,11 @@ export default function (inscriborLink) {
       path: "/",
     },
     {
+      id: 1,
+      text: "Bitmap",
+      path: "/bitmap",
+    },
+    {
       id: 2,
       text: "Wallet",
       path: "/wallet",
